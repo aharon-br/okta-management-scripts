@@ -23,9 +23,9 @@ with open(os.path.expanduser("~/Downloads/rules.csv"), "w") as f:
 """
 this is set to be a file called "search_terms.csv" in the same directory as this script, adjust if you need it to be something else
 the search terms can be anything you are looking for, it might be a list of cost centers, e.g.
-    Sales - AMER
-    Sales - MENA
-or it might manager emails to see if they are in rules, e.g.
+    Sales
+    HR
+    or it might manager emails to see if they are in rules, e.g.
     jdoe@domain.com
     eodj@domain.com
 """
